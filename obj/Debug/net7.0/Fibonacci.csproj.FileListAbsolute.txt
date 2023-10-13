@@ -1,0 +1,15 @@
+/home/v1n1c1u5ouza/dotnet/Fibonacci/bin/Debug/net7.0/Fibonacci
+/home/v1n1c1u5ouza/dotnet/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/home/v1n1c1u5ouza/dotnet/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/home/v1n1c1u5ouza/dotnet/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/home/v1n1c1u5ouza/dotnet/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.AssemblyReference.cache
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/home/v1n1c1u5ouza/dotnet/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
